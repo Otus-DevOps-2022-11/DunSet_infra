@@ -10,3 +10,7 @@ HW5*
 
 Add alias 
 alias = someinternalhost "ssh -i ~/.ssh/appuser -J username@bastion username@someinternalhost"
+main
+
+bastion_IP = 158.160.38.219
+someinternalhost_IP = 10.128.0.33

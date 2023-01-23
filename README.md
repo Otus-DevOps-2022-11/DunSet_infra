@@ -18,5 +18,6 @@ someinternalhost_IP = 10.128.0.33
 
 HW 6
 
-bastion_IP = 158.160.38.219
-someinternalhost_IP = 10.128.0.33
+testapp_IP = 51.250.92.138
+testapp_port = 9292
+

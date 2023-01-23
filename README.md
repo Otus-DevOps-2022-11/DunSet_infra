@@ -16,7 +16,7 @@ main
 bastion_IP = 158.160.38.219
 someinternalhost_IP = 10.128.0.33
 
-DunSet Infra repository
+HW 6
 
-testapp_IP = 158.160.57.119
-testapp_port = 13912
+bastion_IP = 158.160.38.219
+someinternalhost_IP = 10.128.0.33
